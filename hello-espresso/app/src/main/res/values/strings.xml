@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hello-world</string>
+    <string name="login_button">LOG IN</string>
+    <string name="password_field_hint">Password</string>
+    <string name="username_field_hint">Username</string>
+    <string name="error_dialog_close_button">Close</string>
+    <string name="error_dialog_title">Authentication failed</string>
+    <string name="error_dialog_message">Your credentials look invalid.</string>
+    <string name="user_signed_in">User signed in!</string>
+    <string name="invalid_account">Sorry! Invalid account.</string>
+    <string name="welcome_title">Hey, Welcome!</string>
+    <string name="welcome_description">Please log in with your account.</string>
+</resources>
